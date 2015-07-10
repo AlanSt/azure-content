@@ -46,13 +46,13 @@ The following considerations might help you decide on a size:
 |Medium|2|3.5 GB|OS = Guest OS size<br/>Local resource = 489 GB<br/>Apps = approx. 1.5 GB|
 |Large|4|7 GB|OS = Guest OS size<br/>Local resource = 999 GB<br/>Apps = approx. 1.5 GB|
 |ExtraLarge|8|14 GB|OS = Guest OS size<br/>Local resource = 2,039 GB<br/>Apps = approx. 1.5 GB|
-|A5|2|14 GB|OS = Guest OS size<br/>Local resource = 489 GB<br/>Apps = approx. 1.5 GB|
-|A6|4|28 GB|OS = Guest OS size<br/>Local resource = 999 GB<br/>Apps = approx. 1.5 GB|
-|A7|8|56 GB|OS = Guest OS size<br/>Local resource = 2,039 GB<br/>Apps = approx. 1.5 GB
-|A8|8|56 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
-|A9|16|112 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
-|A10|8|56 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
-|A11|16|112 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
+|Standard_A5|2|14 GB|OS = Guest OS size<br/>Local resource = 489 GB<br/>Apps = approx. 1.5 GB|
+|Standard_A6|4|28 GB|OS = Guest OS size<br/>Local resource = 999 GB<br/>Apps = approx. 1.5 GB|
+|Standard_A7|8|56 GB|OS = Guest OS size<br/>Local resource = 2,039 GB<br/>Apps = approx. 1.5 GB
+|Standard_A8|8|56 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
+|Standard_A9|16|112 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
+|Standard_A10|8|56 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
+|Standard_A11|16|112 GB|OS = Guest OS size<br/>Local resource = 1.77 TB<br/>Apps = approx. 1.5 GB<blockquote> Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</blockquote>|
 |Standard_D1|1|3.5 GB|OS = Guest OS size<br/>Local resource = 50 GB<br/>Apps = approx. 1.5 GB|
 |Standard_D2|2|7 GB|OS = Guest OS size<br/>Local resource = 100 GB<br/>Apps = approx. 1.5 GB|
 |Standard_D3|4|14 GB|OS = Guest OS size<br/>Local resource = 200 GB<br/>Apps = approx. 1.5 GB|
