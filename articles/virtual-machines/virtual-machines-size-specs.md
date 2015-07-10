@@ -81,18 +81,18 @@ The following tables show the sizes and the capacities offered by each.
 
 |Size – Management Portal\cmdlets & APIs|CPU cores|Memory|Max. disk sizes – virtual machine|Max. data disks (1023 GB each)|Max. IOPS (500 per disk)|
 |---|---|---|---|---|---|
-|A0\ extra small|1|768 MB|<p>OS = 1023 GB</p><p>Temporary = 20 GB</p>|1|1x500|
-|A1\small|1|1.75 GB|<p>OS = 1023 GB</p><p>Temporary = 70 GB</p>|2|2x500|
-|A2\medium|2|3.5 GB|<p>OS = 1023 GB</p><p>Temporary = 135 GB</p>|4|4x500|
-|A3\large|4|7 GB|<p>OS = 1023 GB</p><p>Temporary = 285 GB</p>|8|8x500|
-|A4\extra large|8|14 GB|<p>OS = 1023 GB</p><p>Temporary = 605 GB</p>|16|16x500|
-|A5\(same)|2|14 GB|<p>OS = 1023 GB</p><p>Temporary = 135 GB</p>|4|4X500|
-|A6\(same)|4|28 GB|<p>OS = 1023 GB</p><p>Temporary = 285 GB</p>|8|8x500|
-|A7\(same)|8|56 GB|<p>OS = 1023 GB</p><p>Temporary = 605 GB</p>|16|16x500|
-|A8\(same)|8|56 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
-|A9\(same)|16|112 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
-|A10\(same)|8|56 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
-|A11\(same)|16|112 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
+|Standard_A0\ extra small|1|768 MB|<p>OS = 1023 GB</p><p>Temporary = 20 GB</p>|1|1x500|
+|Standard_A1\small|1|1.75 GB|<p>OS = 1023 GB</p><p>Temporary = 70 GB</p>|2|2x500|
+|Standard_A2\medium|2|3.5 GB|<p>OS = 1023 GB</p><p>Temporary = 135 GB</p>|4|4x500|
+|Standard_A3\large|4|7 GB|<p>OS = 1023 GB</p><p>Temporary = 285 GB</p>|8|8x500|
+|Standard_A4\extra large|8|14 GB|<p>OS = 1023 GB</p><p>Temporary = 605 GB</p>|16|16x500|
+|Standard_A5\(same)|2|14 GB|<p>OS = 1023 GB</p><p>Temporary = 135 GB</p>|4|4X500|
+|Standard_A6\(same)|4|28 GB|<p>OS = 1023 GB</p><p>Temporary = 285 GB</p>|8|8x500|
+|Standard_A7\(same)|8|56 GB|<p>OS = 1023 GB</p><p>Temporary = 605 GB</p>|16|16x500|
+|Standard_A8\(same)|8|56 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
+|Standard_A9\(same)|16|112 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
+|Standard_A10\(same)|8|56 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
+|Standard_A11\(same)|16|112 GB|<p><p>OS = 1023 GB</p><p>Temporary = 382 GB</p><blockquote><p>Note: For information and considerations about using this size, see <a href="http://go.microsoft.com/fwlink/p/?linkid=328042">About the A8, A9, A10, and A11 Compute Intensive Instances</a>.</p></blockquote>|16|16x500|
 |Standard_D1\(same)|1|3.5 GB|<p>OS = 1023 GB</p><p>Temporary (SSD) =50 GB</p>|2|2x500|
 |Standard_D2\(same)|2|7 GB|<p>OS = 1023 GB</p><p>Temporary (SSD) =100 GB</p>|4|4x500|
 |Standard_D3\(same)|4|14 GB|<p>OS = 1023 GB</p><p>Temporary (SSD) =200 GB</p>|8|8x500|
